@@ -162,9 +162,13 @@ body {
 .work-text {
   display: table-cell;
   vertical-align: middle;
-  font-size: 2rem;
+  font-size: 2.7rem;
   line-height: 2;
 }
+.work-text2{
+  font-size: 1.6rem;
+}
+
 .work-text .button {
   width: 60%;
   margin-top: 20px;
